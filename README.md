@@ -1,3 +1,6 @@
+#About this API
+This is a Nashville Software School project. The task was to use the Django REST framework to create a simple API for a long running project known as "music history." There are other related repos for music history, in case you're interested in seeing the evolution of this project. 
+
 #Installation Instructions
 
 1. If you don't have Python version 2.7, 3.2, 3.3, 3.4, or 3.5: install the latest version of Python
