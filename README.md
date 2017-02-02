@@ -7,10 +7,10 @@
 5. Run python manage.py makemigrations to build the needed database.
 6. Run python manage.py migrate.
 7. Run python manage.py runserver to start the Django server.
-8. Navigate to http://127.0.0.1:8000/ to view the API resources.
+8. Navigate to http://localhost:8080 to view the API resources.
 
 #How to Use The API
 
-1.Follow the steps above to run this app locally. Since this is a RESTful API, you can go to the root URL (http://127.0.0.1:8000/) to see all resources available and which methods can be used on each resource.
+1.Follow the steps above to run this app locally. Since this is a RESTful API, you can go to the root URL (http://localhost:8000/) to see all resources available and which methods can be used on each resource.
 
-2. You can access the admin interface at http://127.0.0.1:8000/admin.
+2. You can access the admin interface at http://localhost:8080/admin.
