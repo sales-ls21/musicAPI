@@ -11,6 +11,5 @@
 
 #How to Use The API
 
-1.Follow the steps above to run this app locally. Since this is a RESTful API, you can go to the root URL (http://localhost:8000/) to see all resources available and which methods can be used on each resource.
+Follow the steps above to run this app locally. Since this is a RESTful API, you can go to the root URL (http://localhost:8000/) to see all resources available and which methods can be used on each resource. You can access the admin interface at http://localhost:8080/admin.
 
-2. You can access the admin interface at http://localhost:8080/admin.
